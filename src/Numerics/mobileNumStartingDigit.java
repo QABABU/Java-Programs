@@ -10,7 +10,7 @@ public class mobileNumStartingDigit  {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter 10 digit mobile number: ");
-
+        //reading the input mobile number
         long mobile_num = sc.nextLong();
 
         System.out.println("Given mobile number: "+mobile_num);
